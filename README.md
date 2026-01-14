@@ -19,7 +19,7 @@
 
 ---
 
-## Tech Stack (UKK RPL — Backend Heavy)
+## Tech Stack 
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
