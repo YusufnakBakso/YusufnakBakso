@@ -12,7 +12,6 @@
 
 ## Focus
 - Software Engineering (RPL)
-- Backend Development
 - REST API & Authentication
 - Database Design & System Logic
 - UKK-Oriented Real Projects
