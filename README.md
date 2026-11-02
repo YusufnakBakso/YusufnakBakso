@@ -58,11 +58,8 @@
 - **Inventory Management System**  
   REST API, role-based access, CRUD validation
 
-- **Sales & Transaction Backend**  
-  API-driven system with reporting
-
-- **Authentication API**  
-  JWT, Refresh Token, Role Management
+- **SIMMAS**  
+ Aplikasi Manajemen Magang Siswa
 
 - **Android Login System**  
   Retrofit + JWT + Token Refresh
