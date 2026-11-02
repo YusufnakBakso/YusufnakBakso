@@ -55,7 +55,7 @@
 ---
 
 ## Selected Projects
-- **Inventory Management System**  
+- **SOBAT PINJAM**  
   REST API, role-based access, CRUD validation
 
 - **SIMMAS**  
